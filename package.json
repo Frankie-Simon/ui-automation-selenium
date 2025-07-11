@@ -1,0 +1,26 @@
+{
+  "name": "ui-automation-selenium",
+  "version": "1.0.0",
+  "description": "UI test automation framework with Selenium WebDriver using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/specs/*.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankie-Simon/ui-automation-selenium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankie-Simon/ui-automation-selenium/issues"
+  },
+  "homepage": "https://github.com/Frankie-Simon/ui-automation-selenium#readme",
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1",
+    "selenium-webdriver": "^4.34.0"
+  }
+}
