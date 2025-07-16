@@ -11,13 +11,14 @@ This project is a sample UI automation framework designed for practicing end-to-
 - Example `.gitignore` to exclude `node_modules`
 
 ## 📁 Project Structure
-tests/
-specs/
-sampleTest.js
-.gitignore
-package.json
-package-lock.json
-README.md
+.
+├── tests/
+│ └── specs/
+│ └── sampleTest.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 
 ## 🚀 Getting Started
 
